@@ -33,13 +33,11 @@ body {
     font-size: x-large;
 }
 
-img {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+.image {
+    display: grid;
+    place-items: center;
     margin: 30%;
-    margin-top: 20%;
+    margin-top: 7%;
 }
 
 #error {
