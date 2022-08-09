@@ -33,9 +33,7 @@ body {
     font-size: x-large;
 }
 
-.image {
-    display: grid;
-    place-items: center;
+img {
     margin: 30%;
     margin-top: 7%;
 }
